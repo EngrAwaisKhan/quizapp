@@ -36,8 +36,8 @@ function App() {
     }
   }
 
-  if(!quiz.length)
-  return <h3>Loading ... </h3>
+  // if(!quiz.length)
+  // return <h3>Loading ... </h3>
   return (
     <div className="App">
       <h1>Quiz App</h1>
