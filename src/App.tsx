@@ -36,7 +36,7 @@ function App() {
     }
   }
 
-  // if(!quiz.length)
+  if(!quiz.length)
   // return <h3>Loading ... </h3>
   return (
     <div className="App">
